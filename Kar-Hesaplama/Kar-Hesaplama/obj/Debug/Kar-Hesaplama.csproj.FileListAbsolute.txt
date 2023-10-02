@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\bin\Debug\Kar-Hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\bin\Debug\Kar-Hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\bin\Debug\Kar-Hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar-Hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar-Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar_Hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar_Hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar-Hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar-Hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kar-Hesaplama\Kar-Hesaplama\obj\Debug\Kar-Hesaplama.pdb
